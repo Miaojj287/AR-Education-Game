@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Chinese" size="20.000000 15.000000" />
+    <ImageTarget name="dog" size="1.000000 1.345600" />
+    <ImageTarget name="cat" size="1.000000 1.338095" />
+    <ImageTarget name="honey" size="1.000000 1.340256" />
+    <ImageTarget name="potato" size="1.000000 1.324881" />
+    <ImageTarget name="apple" size="1.000000 1.346092" />
+    <ImageTarget name="solar" size="1314.000000 860.669983" />
+    <ImageTarget name="Music" size="1.000000 0.543478" />
+    <ImageTarget name="ko__be" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
